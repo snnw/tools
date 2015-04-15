@@ -1,0 +1,2 @@
+[$HOME/tools/vcsh]
+checkout = git clone git@github.com:RichiH/vcsh.git
