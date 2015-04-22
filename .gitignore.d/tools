@@ -1,0 +1,10 @@
+*
+!/.config
+!/.config/mr
+!/.config/mr/available.d
+!/.config/mr/available.d/tools-vcsh.vcsh
+!/.gitignore.d
+!/.gitignore.d/tools
+!/bin
+!/bin/vcsh
+!/tools
